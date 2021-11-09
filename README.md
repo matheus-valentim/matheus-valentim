@@ -3,7 +3,7 @@
 
 ## Sou um estudante de design e programação com o sonho de ser full-stack!!
 
-- 🔭 Estou trabalhando em um projeto de webchat em tempo real
+- 🔭 Estou trabalhando em um projeto de webchat em tempo real com voice
 - 🌱 No momento estou aprendendo mais sobre react e next
 - 🥅 Goals: Contribuir mais com projetos open source
 - ⚡ Fun fact: sou um grande fã de animação e jogos
