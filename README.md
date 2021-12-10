@@ -1,7 +1,7 @@
 ### Ola, meu nome é Matheus e seja bem vindo!👋
 
 
-## Sou um estudante de design e programação com o sonho de ser full-stack!!
+## Sou um estudante programação com o sonho de ser full-stack e um entusiasta de design!!
 
 - 🔭 Estou trabalhando em um projeto de webchat em tempo real com voice
 - 🌱 No momento estou aprendendo mais sobre react e next
