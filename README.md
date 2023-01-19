@@ -3,7 +3,7 @@
 
 ## Sou um estudante programação com o sonho de ser full-stack e um entusiasta de design!!
 
-- 🔭 Estou trabalhando em um projeto de biblioteca virtual!
+- 🔭 Estou trabalhando em um projeto dashboard e uma rede social!
 - 🌱 No momento estou aprendendo mais sobre react e next
 - 🥅 Goals: Contribuir mais com projetos open source
 - ⚡ Fun fact: sou um grande fã de animação e jogos
