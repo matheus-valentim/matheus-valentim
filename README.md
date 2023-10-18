@@ -1,10 +1,10 @@
 ### Ola, meu nome é Matheus e seja bem vindo!👋
 
 
-## Sou um estudante programação com o sonho de ser full-stack e um entusiasta de design!!
+## Sou um estudante programação com o sonho de ser full-stack!
 
-- 🔭 Estou trabalhando em um projeto dashboard e uma rede social!
-- 🌱 No momento estou aprendendo mais sobre react e next
+- 🔭 Estou trabalhando em um projeto de cms!
+- 🌱 No momento estou aprendendo mais sobre next e nodeJS
 - 🥅 Goals: Contribuir mais com projetos open source
 - ⚡ Fun fact: sou um grande fã de animação e jogos
 - 📫 Contato: matheusfigueiredo72@gmail.com
