@@ -3,8 +3,8 @@
 
 ## Sou um estudante programação com o sonho de ser full-stack!
 
-- 🔭 Estou trabalhando em um projeto de cms!
-- 🌱 No momento estou aprendendo mais sobre next e nodeJS
+- 🔭 Estou trabalhando em projetos java!
+- 🌱 No momento estou aprendendo mais sobre java e springboot
 - 🥅 Goals: Contribuir mais com projetos open source
 - ⚡ Fun fact: sou um grande fã de animação e jogos
 - 📫 Contato: matheusfigueiredo72@gmail.com
